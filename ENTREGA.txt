@@ -1,0 +1,3 @@
+GitHub: PENDIENTE - subir el contenido de esta carpeta a un repositorio público.
+Weights & Biases Report: PENDIENTE - ejecutar src/train.py y crear el report en W&B.
+Endpoint en producción: PENDIENTE - desplegar la API con Docker en Render, Railway o Cloud Run.
